@@ -9,5 +9,10 @@ Starter for html/css projects
 4. gulp
 ````
 Then visit `localhost:3000` in your browser.
-
 ---
+
+### Features
+````
+1. SASS compilation
+2. Hot injection / reload
+````
